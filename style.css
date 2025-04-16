@@ -1,0 +1,77 @@
+body {
+  padding: 20px;
+  background-color: white;
+  font-family: "forum";
+}
+.container {
+  background-color: #e6eaf3;
+}
+.container1 {
+  padding: 10px;
+  display: flex;
+}
+.div1 {
+  padding: 20px;
+  text-align: center;
+}
+.job {
+  font-size: 2cap;
+}
+.profileimg {
+  height: 400px;
+  border-radius: 10px;
+}
+.div2 {
+  padding: 20px;
+}
+.name {
+  font-family: "Cousine";
+  font-size: 8cqi;
+  text-align: -webkit-center;
+}
+.profile {
+  font-size: 50px;
+  margin: 1px;
+}
+.summary {
+  border: 2px solid black;
+  border-radius: 30px;
+  background-color: #205781;
+  border: none;
+  padding: 10px 20px 30px 40px;
+  color: white;
+}
+.container2 {
+  padding: 20px;
+  display: flex;
+}
+.col1 {
+  flex: 2;
+}
+.jobtitle {
+  background-color: black;
+  color: white;
+  width: 350px;
+  font-size: larger;
+}
+.col2 {
+  flex: 1;
+}
+li {
+  padding: 5px;
+}
+section > h1 {
+  font-size: 3cqi;
+  margin-left: 10px;
+}
+.skills,
+.References {
+  padding: 5px 21px 2px 16px;
+  border: 2px solid black;
+  border-radius: 30px;
+  background-color: #205781;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  color: white;
+}
